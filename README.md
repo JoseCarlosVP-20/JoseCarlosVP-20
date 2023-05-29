@@ -10,15 +10,22 @@
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoseCarlosVP-20&bg_color=0d1117&color=7ee787&line=7ee787&point=b089ec&area=true&hide_border=true#gh-dark-mode-only" width="100%">
 </a>
 
-<div align="center">
-
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JoseCarlosVP-20&show_icons=true&count_private=true&hide_border=true&title_color=7ee787&icon_color=7ee787&text_color=c9d1d9&bg_color=0d1117#gh-dark-mode-only" alt="Jose Villalba github stats" />
-
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=josecarlosvp-20&theme=buefy&show_icons=true#gh-light-mode-only" alt="Jose Villalba github stats" /> 
-  
+<div align="center">  
+ <a href="https://www#gh-dark-mode-only">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JoseCarlosVP-20&show_icons=true&count_private=true&hide_border=true&title_color=7ee787&icon_color=7ee787&text_color=c9d1d9&bg_color=0d1117#gh-dark-mode-only" alt="Jose Villalba github stats" /> 
+ </a>
+  <a href="https://www#gh-dark-mode-only">
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCarlosVP-20&layout=compact&hide_border=true&title_color=7ee787&text_color=7ee787&bg_color=0d1117#gh-dark-mode-only" />
-  
+ </a>
+</div>
+
+<div align="center">  
+ <a href="https:www#gh-light-mode-only">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=josecarlosvp-20&theme=buefy&show_icons=true#gh-light-mode-only" alt="Jose Villalba github stats" /> 
+ </a>
+  <a href="https://www#gh-light-mode-only">
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCarlosVP-20&theme=buefy&show_icons=true#gh-light-mode-only" />
+ </a>
 </div>
 
 <div align="center">    
