@@ -2,7 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=7EE787&center=true&vCenter=true&width=1000&lines=HELLO%2C+My+Name+is+Jose+Villalba;I'm+from+Colombia+;I'm+Software+Developer+;Be+Welcome!)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JoseCarlosVP-20&bg_color=0d1117&color=7ee787&line=7ee787&point=b089ec&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-light-mode-only">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoseCarlosVP-20&bg_color=ffffff&color=7ee787&line=7ee787&point=b089ec&area=true&hide_border=true#gh-light-mode-only" width="100%">
+</a>
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-dark-mode-only">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoseCarlosVP-20&bg_color=0d1117&color=7ee787&line=7ee787&point=b089ec&area=true&hide_border=tru#gh-dark-mode-only" width="100%">
+</a>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JoseCarlosVP-20&show_icons=true&count_private=true&hide_border=true&title_color=7ee787&icon_color=7ee787&text_color=c9d1d9&bg_color=0d1117" alt="Jose Villalba github stats" /> 
